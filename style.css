@@ -5,10 +5,56 @@
 }
 
 body{
-    background-color: rgb(185, 219, 177);
+    background-color: rgb(227, 252, 222);
+    font-size: 16px;
+    font-family: Verdana, Tahoma, sans-serif;
 }
 
 .container{
     width: 80%;
-    padding: 1em;;
+    padding: 2em;
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 1.6em;
+    text-align: center;
+}
+
+h2{
+    font-size: 1.3em;
+    font-weight: 700;
+    text-align: center;
+}
+
+p{
+    font-size: 1.2em;
+}
+
+table{
+    margin: 3em auto;
+}
+
+
+
+th {
+    background-color: rgb(106, 184, 158);
+    padding: 0.6em;
+}
+td {
+    background-color: rgb(179, 207, 197);
+    padding: 0.5em;
+    width: 45em;
+}
+
+.left{
+    width: 13em;
+    text-align: center;
+    font-weight: 700;
+    padding: 0.5em 0.2em;
+}
+
+.main-table-header{
+    background-color: rgb(96, 168, 144);
+    padding: 1.2em;
 }
