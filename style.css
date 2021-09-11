@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: rgb(185, 219, 177);
+}
+
+.container{
+    width: 80%;
+    padding: 1em;;
+}
